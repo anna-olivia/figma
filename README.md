@@ -66,4 +66,4 @@ Designing a Landing page using masking techniques.
 <br/>
 -------------------------------------------------------------------------
 <br/>
-[1] All exercises are inspired or are actual assignments from the udemy course taught by ![Vako](https://www.vakoshvili.com/)
+[1] All exercises are inspired or are actual assignments from the udemy course taught by [Vako](https://www.vakoshvili.com/)
