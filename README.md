@@ -8,12 +8,14 @@ Combining Headings with paragraph while choosing suitable typefaces to emphasize
 ![Setting Typo types](./screenshots/typeSetting.png)
 
 <br/>
+
 ### Sampling Colors
 
 Sampling Colors through images and pairing Typography
 ![Sampling](./screenshots/samplingColors.png)
 
 <br/>
+
 ### Cropping Techniques
 
 Cropping Images with extreme, soft blurring techniques while designing Landing Pages for random topics.
@@ -47,5 +49,6 @@ Designing a Landing page using masking techniques.
 ![Tension](./screenshots/tension.png)
 
 <br/>
------------------------------------------------------------------
-[1] All exercises are inspired or are actual assignments from the udemy course taught by [Vako](https://www.vakoshvili.com/)
+-------------------------------------------------------------------------
+<br/>
+[1] All exercises are inspired or are actual assignments from the udemy course taught by ![Vako](https://www.vakoshvili.com/)
